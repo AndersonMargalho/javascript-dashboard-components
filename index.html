@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Model Evaluation Dashboard</title>
+  <link rel="stylesheet" href="./styles/theme.css" />
+  <!-- Chart.js via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <header class="topbar">
+    <h1>Model Evaluation Dashboard</h1>
+    <p class="subtitle">Vanilla JS · ES Modules · Zero Build</p>
+  </header>
+
+  <main class="dashboard">
+    <section id="chart-card" class="card" aria-label="Average score by dimension"></section>
+    <section id="table-card" class="card" aria-label="Evaluation runs table"></section>
+  </main>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
