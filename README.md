@@ -12,7 +12,7 @@
 
 ---
 
-![Dashboard Preview](dashboard-preview%201.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 🇺🇸 US English Version
 
