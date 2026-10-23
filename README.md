@@ -9,7 +9,7 @@
 
 ---
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview 1.png)
 
 ## 🇺🇸 US English Version
 
