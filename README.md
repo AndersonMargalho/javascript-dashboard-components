@@ -12,7 +12,7 @@
 
 ---
 
-![Dashboard Preview](dashboard-preview.png)
+https://github.com/AndersonMargalho/javascript-dashboard-components/blob/main/dashboard-preview.png?raw=true
 
 ## 🇺🇸 US English Version
 
