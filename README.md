@@ -9,6 +9,8 @@
 
 ---
 
+![Dashboard Preview](dashboard-preview.png)
+
 ## 🇺🇸 US English Version
 
 A small, growing library of **vanilla-JavaScript dashboard components** — no framework, no bundler, no `npm install`. Built with native ES Modules and a single CDN dependency (Chart.js), so you can clone it and see it run in seconds.
